@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+    display: flex;
+    font-size: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+div{
+    border: 1px solid red;
+    border-radius: 10px;
+}
